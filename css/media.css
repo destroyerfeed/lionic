@@ -144,8 +144,9 @@
                      :root {
                         --gap: 15px;
                     }
-                  .clients-item:nth-child(3n) {
-                    display: none; }
+                  .clients-list {
+                    flex-direction: column; 
+                  }
                   
                     .header {
                         padding: 15px 0;
