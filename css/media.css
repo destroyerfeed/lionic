@@ -144,6 +144,9 @@
                      :root {
                         --gap: 15px;
                     }
+                  .clients-item:nth-child(3n) {
+                    display: none; }
+                  
                     .header {
                         padding: 15px 0;
                     }
