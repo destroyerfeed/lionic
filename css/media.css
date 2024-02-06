@@ -147,6 +147,10 @@
                   .clients-list {
                     flex-direction: column; 
                   }
+
+                  .hero__content {
+                    max-width: 100%; 
+                  }
                   
                     .header {
                         padding: 15px 0;
